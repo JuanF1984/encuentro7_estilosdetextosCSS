@@ -1,0 +1,41 @@
+.parrafo1 {
+    color: red;
+    text-decoration: line-through;
+}
+
+.parrafo2 {
+    font-family: 'Courier New';
+}
+
+.parrafo3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.parrafo4{
+    font-style: oblique;
+}
+
+.parrafo5{
+    font-weight:bolder;
+}
+
+.parrafo6{
+    text-transform: uppercase;
+}
+
+.parrafo7{
+    text-decoration: overline underline;
+}
+
+.parrafo8{
+    text-shadow: 1px 1px 1px red;
+}
+
+.parrafo9{
+    line-height: 1.5;
+}
+
+.parrafo10{
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
